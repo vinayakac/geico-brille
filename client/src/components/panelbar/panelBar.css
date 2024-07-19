@@ -1,0 +1,30 @@
+.panel-bar-container {
+  margin-left: 50px;
+  margin-right: 10px;
+  margin-bottom: 25px;
+  display: flex;
+  align-items: center;
+}
+.panel-bar-container input {
+  margin: 0;
+}
+
+.panel-bar-container button {
+  margin: 0;
+}
+
+.panel-bar-container .panel-bar-selector {
+  margin: 0 10px 0 10px;
+}
+
+.error-message-start,
+.error-message-end {
+  color: #e00b20;
+}
+input.date-datepicker.validation-failed {
+  border-color: #e00b20;
+}
+
+input.date-datepicker.validation-failed + button.ui-datepicker-trigger {
+  border-color: #e00b20;
+}

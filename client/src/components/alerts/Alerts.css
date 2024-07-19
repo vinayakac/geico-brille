@@ -1,0 +1,85 @@
+.configured-alerts table {
+  display: inline-block;
+  border: 1px solid grey;
+  width: 99%;
+}
+
+.alerts-configured-title {
+  margin-top: 10px;
+  margin-left: 50px;
+}
+
+.alerts-no-wrap {
+  white-space: nowrap;
+}
+
+.geico-icon.geico-icon--small.geico-icon--actionable.icon-expand {
+  margin-right: 15px;
+}
+
+.modal-container {
+  width: 800px !important;
+}
+
+.alert-field input[type="text"] {
+  width: 100%;
+  margin-bottom: 10px;
+}
+.alert-field input[type="select-box"] {
+  width: 100%;
+  margin-bottom: 10px !important;
+}
+
+.alert-field label {
+  margin-bottom: 4px;
+}
+.error-message {
+  color: red;
+}
+
+.alert-header {
+  display: flex;
+  align-items: center;
+}
+
+.alert-close-button {
+  margin-left: 10px;
+}
+
+.alert-details {
+  font-style: italic;
+  color: #888;
+}
+
+.icon-notifications {
+  position: relative;
+  display: inline-block;
+}
+.drawer-content {
+  max-height: 100vh !important;
+  overflow-y: auto;
+}
+
+.edit-panel {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.form-field {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.form-field label {
+  margin-bottom: 5px;
+}
+
+.form-field input,
+.form-field select {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 8px;
+}

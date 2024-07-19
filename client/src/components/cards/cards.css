@@ -1,0 +1,107 @@
+.summary_row {
+    border: 1px solid grey; 
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 50px; 
+    margin-right: 50px;
+    font-size: 12pt;
+}
+
+.summary_row h4 {
+    font-size: 12pt;
+    line-height: 12px;
+}
+
+.summary_row h5 {
+    font-size: 11pt;
+}
+
+.summary_tab {
+    border: 1px solid grey;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.summary_card {
+    border: 1px solid grey;
+    padding: 8px;
+    margin: 0 0 20px 0;
+}
+
+.summary_card .summary_title {
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+}
+
+.data_drift_details_row {
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 50px; 
+    margin-right: 50px;
+}
+
+.data_quality_details_row {
+    border: 1px solid grey; 
+    display: flex; 
+    flex-direction: row;
+    height: 300px;
+    margin-top: 10px;
+    margin-left: 50px; 
+    margin-right: 50px;
+}
+
+.target_drift_details_row {
+    border: 1px solid grey; 
+    margin-top: 10px;
+    margin-left: 50px; 
+    margin-right: 50px;
+}
+
+.target_drift_details_tab {
+    display: flex; 
+    flex-direction: row;
+    height: 85%;
+    margin-top: 10px;
+    margin-left: 10px; 
+    margin-right: 10px;
+}
+
+.class_performance_details_row {
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 50px; 
+    margin-right: 50px;
+}
+
+
+.model_input_data_display_row {
+    border: 1px solid grey;
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 11pt;
+}
+
+.model_input_data_display_row label {
+    font-size: 10pt;
+}
+
+.model_input_data_display_row h4 {
+    font-size: 12pt;
+}
+
+.subpopulation-row {
+    margin-top: 30px;
+    padding-left: 50px;
+}
+
+.subpopulation-row h3 {
+    margin-bottom: -10px;
+    font-size: 16pt;
+}

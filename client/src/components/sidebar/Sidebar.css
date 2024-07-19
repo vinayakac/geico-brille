@@ -1,0 +1,43 @@
+/* left border for the sidebar panel */
+.dark .side-navigation-panel *, .side-navigation-panel:after, .side-navigation-panel:before {
+    border-color: #1c1c1c;
+}
+
+.side-nav {
+    position: fixed;
+    top: 3em;
+    padding: 8px;
+    width: 240px;
+    height: 100%;
+}
+
+/* background color for the entire sidebar */
+.dark .side-nav {
+    background: #1c1c1c;
+}
+
+/* colors for the main menu items */
+ .side-navigation-panel-select-option-wrap {
+    color: #9fa6b1;
+}
+
+/* color for the selected item */
+.dark .side-navigation-panel-select-option-selected .side-navigation-panel-select-option-wrap {
+    color: rgba(31,41,55,0.8)
+}
+
+/* colors for sub-menu items */
+.dark .side-navigation-panel-select-inner-option-wrap {
+    color: #9fa6b1;
+    /*color: #7CABFF;*/
+}  
+
+/* color for the selected item */
+.dark .side-navigation-panel-select-inner-option-selected .side-navigation-panel-select-inner-option-wrap {
+    color: rgba(31,41,55,0.8)
+}
+
+/* font size for the menu items */
+.side-navigation-panel-select-option-text {
+    font-size: 9pt;
+}

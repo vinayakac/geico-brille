@@ -1,0 +1,34 @@
+.dialogbox-container{
+    display: inline-block;
+    border: 1px solid rgb(84, 82, 82);
+    padding: 30px; 
+}
+.btn.btn--primary{
+    float: right;
+}
+.modal-container {
+    width:600px !important;
+}
+.modal-content{
+    display: grid;
+    place-items: center;
+}
+.notebook-data{
+    border: 1px solid grey; 
+    margin-top: 10px;
+    margin-left: 50px; 
+    margin-right: 50px;
+}
+.model_analysis{
+    margin-top: 10px;
+    margin-left: 50px; 
+    margin-right: 50px; 
+}
+.model-analysis-header{
+    margin-top: 10px;
+    margin-left: 50px; 
+    margin-right: 50px;
+}
+
+
+

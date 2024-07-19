@@ -1,0 +1,14 @@
+.loading-error-container {
+    border: 1px solid grey; 
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.loading-container {
+    border: 1px solid grey; 
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

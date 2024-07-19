@@ -1,0 +1,7 @@
+.subpopulation-modal-container {
+    width: 700px !important;
+}
+
+.subpopulation-tooltip-container .tooltip-container {
+    position: revert;
+}
